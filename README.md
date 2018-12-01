@@ -1,7 +1,7 @@
-# WordBase Application
+# RGB Generator 
 
 #### java GUI project using swing package 
 
-this app purpose is to **keep new English vocabulary **
+a simple GUI RGB Color Generator Application 🎨
 
 📄     📄      📄      📄
