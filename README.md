@@ -1,5 +1,7 @@
-# Java Swing
+# WordBase Application
 
-----
+#### java GUI project using swing package 
 
-This is a project with `Java Swing`
+this app purpose is to **keep new English vocabulary **
+
+📄     📄      📄      📄
